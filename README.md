@@ -38,6 +38,8 @@ You will also find any scripts or code snippets that need to be used in the Lab.
 
 
  ## Acknowledgments and Contributions
-  - Jeff Chasin
-  - Brandon Pack
+  - *[@JeffChasin](https://twitter.com/JeffChasin)*
+  - *[@BrandonJPack](https://twitter.com/BrandonJPack)*
 
+
+** **NOTE:** If you clone this repo, please pull before attending the lab as we may continue to make updates and corrections. - Thanks
