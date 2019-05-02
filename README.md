@@ -28,7 +28,6 @@ You will also find any scripts or code snippets that need to be used in the Lab.
 
 
 ## Links Used in the Lab
- - [Example Website](https://aem.enablementadobe.com/content/we-retail/us/en.html)
  - [Adobe Launch](https://launch.adobe.com/)
  - [Login to Experience Cloud](https://experiencecloud.adobe.com/)
  - [Adobe Launch User Docs](https://docs.adobelaunch.com/)
