@@ -5,9 +5,9 @@ This repo contains the assets necessary for the 2019 Magento Imagine Lab titled 
 
 ## Lab Objectives
 By the end of this lab attendees should:
- 1. Have an introductory understanding of the Adobe Experinece Platform
- 2. Be able to setup and configure one of the first integrations between Magento and Adobe Expereince Products
- 3. Understand some of the basic principles of Tag Management (regradless of tool chose) and how to leverage them on Magento 2
+ 1. Have an introductory understanding of the Adobe Experience Platform
+ 2. Be able to setup and configure one of the first integrations between Magento and Adobe Experience Products
+ 3. Understand some of the basic principles of Tag Management (regardless of tool choice) and how to leverage them on Magento 2
  4. Have a basic understanding of developing Extensions and Applications on Adobe's Platform using Adobe Launch and how to proceed forward
 
 
@@ -19,7 +19,7 @@ You will also find any scripts or code snippets that need to be used in the Lab.
  - [NPM](https://www.npmjs.com/)
  - [NodeJS](https://nodejs.org/en/)
  - [Magento 2 Instance with Admin Acces](https://github.com/magento/magento2)  *(Sample Data Recommended)*
- - [Adobe Experience Platfomr Extension for Magento](https://github.com/magento/aep-launch)
+ - [Adobe Experience Platform Extension for Magento](https://github.com/magento/aep-launch)
 
 
  ## Optional but Recommended
